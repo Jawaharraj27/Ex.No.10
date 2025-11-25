@@ -1,144 +1,97 @@
 # Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
-
+Creating a Poster using MidJourney.
 ## Reg. No:212223240057
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+📌 POSTER CREATION USING MIDJOURNEY – FINAL REPORT
+1. AIM
 
-## Procedure:
+To design a visually attractive and professional poster using the AI-based tool MidJourney, by giving text prompts and generating creative poster outputs.
 
-# BUSINESS REPORTS AND CASE STUDIES WITH PROMPT PATTERNS
+2. SOFTWARE / TOOL REQUIREMENTS
 
-1. Introduction
-Business reports and case studies are essential tools for professional communication, analysis, and decision-making. They help in:
+MidJourney Account
 
-Presenting information in a structured manner
+Discord Account
 
-Evaluating alternatives and outcomes
+Internet-enabled Computer or Mobile
 
-Making informed business decisions
+Optional Editing Tool: Canva / Photoshop
 
-In the context of AI-assisted writing, using prompt patterns—that is, structured and goal-oriented instructions—can help generate well-organized, analytical, and professional business documents.
+3. THEORY
 
-Prompt patterns such as decision-making prompts, comparative prompts, SWOT-based prompts, and feasibility prompts guide the AI (or the user) to think logically and deeply, thereby improving clarity, depth, and tone of reports.
+MidJourney is a Generative AI tool that converts text prompts into high-quality images using Diffusion Models. It analyzes keywords from the prompt and produces four different image variations that can be further enhanced using upscaling and variation features. This simplifies poster creation without advanced graphic design skills.
 
-2. Role of Prompt Patterns in Business Analysis
-Prompt patterns serve as frameworks that guide how a report or case study is developed. They help structure the response logically by:
+4. ALGORITHM
 
-Breaking complex problems into steps
+Open Discord and log into the MidJourney server
 
-Encouraging multi-angle analysis (e.g., strengths, weaknesses, opportunities, threats)
+Choose a channel like Newbies or Direct Message with MidJourney Bot
 
-Maintaining a formal and professional style
+Type the command:
 
-Supporting evidence-based reasoning
+/imagine prompt: <poster description>
 
-Structured prompting ensures the report is not just descriptive but also analytical, evaluative, and actionable.
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/10572100-775e-47bd-b994-e43beaffcd3c" />
+MidJourney processes the prompt and generates 4 image variations
 
-3. Common Prompt Patterns Used in Business Reports
-A. Decision-Making Prompts
-These prompts guide analysis toward making a choice or recommendation.
+Select:
 
-Example Prompt Pattern:
+U1–U4 for upscaling
 
-"Given the following data, analyze three possible business strategies for company growth, evaluate their risks and benefits, and recommend the most viable option."
+V1–V4 for variations
 
-Application in Report:
-Used in sections like Recommendations or Strategic Analysis.
+Download the best poster output
 
-Encourages critical thinking and comparative evaluation.
+Add title, text, logo if required using Canva / Photoshop
 
-B. Comparative Analysis Prompts
-These prompts help compare two or more business options, products, or competitors.
+Save the final poster design
 
-Example Prompt Pattern:
+5. SAMPLE PROMPT USED
+/imagine prompt: awareness poster about plastic pollution, clean layout, green and blue color theme, impactful composition, vector art style, space for text, HD 4K quality
 
-"Compare and contrast Company A’s and Company B’s marketing strategies in terms of market reach, cost-effectiveness, and innovation."
+6. OUTPUT
 
-Application in Report:
-Useful in Competitor Analysis and Market Comparison sections.
+(Attach the generated poster images here – You can ask me to generate a sample based on your theme!)
 
-Promotes analytical tone by highlighting differences, similarities, and implications.
+Example Layout for record:
 
-C. SWOT-Based Prompts
-A SWOT prompt structures thinking around Strengths, Weaknesses, Opportunities, and Threats.
+Output 1	Output 2	Final Upscaled Poster
+(Image)	(Image)	(Final Image)
 
-Example Prompt Pattern:
+NOTE: I can generate the poster for you if you tell me your poster topic 👍
 
-"Generate a SWOT analysis for Tesla’s expansion into the Indian market, focusing on production cost, regulatory factors, and consumer behavior."
+7. APPLICATIONS
 
-Application in Report:
-Helps in Strategic Positioning or Feasibility Studies.
+Educational Posters
 
-Encourages balanced and comprehensive evaluation.
+Marketing / Branding Designs
 
-D. Feasibility Study Prompts
-These prompts are designed to assess whether a business idea or project is viable.
+Event Announcements
 
-Example Prompt Pattern:
+Public Awareness Campaigns
 
-"Assess the feasibility of launching a food delivery startup in Tier-2 cities of India. Include market potential, competition, investment needs, and risk analysis."
+Social Media Creatives
 
-Application in Report:
-Used in Project Proposals or Business Expansion Reports.
+8. ADVANTAGES
 
-Focuses on financial, technical, and market feasibility.
+Fast and cost-efficient poster generation
 
-E. Problem-Solution Prompts
-Used for identifying issues and proposing data-driven solutions.
+Professional quality without design skills
 
-Example Prompt Pattern:
+Multiple creative variations automatically
 
-"Identify the key operational challenges faced by Company X in supply chain management and propose three data-driven solutions."
+Easy customization with prompts
 
-Application in Report:
-Useful for Operational Audits or Case Studies.
+9. LIMITATIONS
 
-Enhances problem-solving depth and practicality.
+Text formatting may not be accurate
 
-F. Cause-Effect Prompts
-These analyze why something happened and what resulted from it.
+Requires paid plan for full features
 
-Example Prompt Pattern:
+Sometimes produces incorrect objects or details
 
-"Analyze how poor inventory management led to reduced profit margins in Company Y’s 2023 financial year."
+Manual editing required for final typography
 
-Application in Report:
-Used in Incident Analysis or Performance Evaluation sections.
+10. RESULT
 
-Encourages logical flow and evidence-based reasoning.
-
-<img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/e11fa7b3-f4a9-495c-8303-c238a742365b" />
-
-4. How Structured Prompting Improves Business Reports
-   
-Aspect        	Without Structured Prompts               	 With Structured Prompt Patterns
-Organization   	Random or loosely structured ideas	       Clear and logical structure (Introduction → Analysis → Conclusion)
-Analytical
-Depth         	Surface-level observations                Multi-angle, in-depth analysis (SWOT, comparative, etc.)
-Tone	Informal or inconsistent	Professional, factual, and business-oriented
-Decision Making	Vague conclusions	Evidence-based, actionable recommendations
-Efficiency	Requires manual restructuring	AI can generate professional drafts quickly
-
-5. Example: Business Case Study Using Prompt Patterns
-Prompt Used (Decision + SWOT Based):
-
-"Write a case study analyzing the success of Zomato’s business model using SWOT analysis and recommend strategies for future growth."
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
-
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
-
-## Conclusion: 
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+The poster was successfully designed using MidJourney by providing a text prompt and refining the image using upscaling options. Thus, the aim of generating a creative poster using AI technology is achieved.
